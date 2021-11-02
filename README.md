@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<a href="#about">About    </a>
-<a href="#previews">Preview    </a>
-<a href="#setup">Setup    </a>
+<a href="#about">About  |</a>
+<a href="#previews">Preview  |</a>
+<a href="#setup">Setup  |</a>
 </p>
