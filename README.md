@@ -20,28 +20,28 @@ These Startpages are my configurations of [these startpages](https://github.com/
 
 <h2>Blue
 
-<img src="previews/blue.png" alt="img" align="right" height="450px" width="450px">
+<img src="previews/blue.png" alt="img" align="right">
 
 Gray
 <img src="previews/gray.png" alt="img" align="right">
 
-Green - 
+Green
 
 <img src="previews/green.png" alt="img" align="right">
 
-Orange - 
+Orange
 
 <img src="previews/orange.png" alt="img" align="right">
 
-Purple - 
+Purple
 
 <img src="previews/purple.png" alt="img" align="right">
 
-Red - 
+Red
 
 <img src="previews/red.png" alt="img" align="right">
 
-Yellow - 
+Yellow
 
 <img src="previews/yellow.png" alt="img" align="right">
 
