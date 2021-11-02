@@ -49,3 +49,12 @@ These Startpages are my configurations of [these startpages](https://github.com/
     <td><img src="previews/yellow.png" alt="img" align="right"></td>
   </tr>
 </table>
+
+## Setup
+
+1. Install the extension - [chrome](https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna)[firefox](https://addons.mozilla.org/en-US/firefox/addon/new-tab-override/)
+2. Install the Startpage zip of the color you like and unzip it
+3. Open the index.html file
+4. Copy the file location in the url box
+5. Paste it in the Extensions url box and save it
+6. Done
