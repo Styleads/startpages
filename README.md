@@ -20,12 +20,13 @@ These Startpages are my configurations of [these startpages](https://github.com/
 
 <table>
   
-<tr>
+ <tr>
   
   <td>Blue</td>
 
   <td><img src="previews/blue.png" alt="img" align="right"></td>
 
+  </tr>  
 Gray
 <img src="previews/gray.png" alt="img" align="right">
 
