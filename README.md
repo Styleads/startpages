@@ -11,3 +11,9 @@
 <a href="#previews">Preview  |</a>
 <a href="#setup">Setup  </a>
 </p>
+
+## About
+
+These Startpages are my configurations of [these startpages](https://github.com/HeavyRain266/Startpage) with different flavours/colors and more.
+
+## Previews
