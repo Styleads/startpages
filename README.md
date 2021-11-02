@@ -18,7 +18,7 @@ These Startpages are my configurations of [these startpages](https://github.com/
 
 ## Previews
 
-<table>
+<table border="0" cellspacing="0" cellpadding="4">
   
   <tr>
     <td>Blue</td>
