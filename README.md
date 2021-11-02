@@ -21,35 +21,31 @@ These Startpages are my configurations of [these startpages](https://github.com/
 <table>
   
   <tr>
-  
-  <td>Blue</td>
-
-  <td><img src="previews/blue.png" alt="img" align="right"></td>
-
+    <td>Blue</td>
+    <td><img src="previews/blue.png" alt="img" align="right"></td>
   </tr> 
   <tr>
     <td>Gray</td>
     <td><img src="previews/gray.png" alt="img" align="right"></td>
   </tr>  
-
-<tr>
-Green
-
-<img src="previews/green.png" alt="img" align="right">
-
-Orange
-
-<img src="previews/orange.png" alt="img" align="right">
-
-Purple
-
-<img src="previews/purple.png" alt="img" align="right">
-
-Red
-
-<img src="previews/red.png" alt="img" align="right">
-
-Yellow
-
-<img src="previews/yellow.png" alt="img" align="right">
+  <tr>
+    <td>Green</td>
+    <td><img src="previews/green.png" alt="img" align="right"></td>
+  </tr>
+  <tr>
+    <td>Orange</td>
+    <td><img src="previews/orange.png" alt="img" align="right"></td>
+  </tr>
+  <tr>
+    <td>Purple</td>
+    <td><img src="previews/purple.png" alt="img" align="right"></td>
+  </tr>
+  <tr>
+    <td>Red</td>
+    <td><img src="previews/red.png" alt="img" align="right"></td>
+  </tr>
+  <tr>
+    <td>Yellow</td>
+    <td><img src="previews/yellow.png" alt="img" align="right"></td>
+  </tr>
 </table>
