@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<a href="#about"><img width="150px" style="padding: 60 60px;" src="src/image-x-generic.png"></a>
-<a href="#previews"><img width="150px" style="padding: 60 60px;" src="https://cdn.discordapp.com/attachments/851667861982019595/905056926105210910/image-x-generic.png"></a>
-<a href="#setup"><img width="150px" style="padding: 60 60px;" src="https://cdn.discordapp.com/attachments/851667861982019595/905056928110116874/preferences-system-windows.png"></a>
+<a href="#about">About</a>
+<a href="#previews">Preview</a>
+<a href="#setup">Setup</a>
 </p>
