@@ -18,7 +18,7 @@ These Startpages are my configurations of [these startpages](https://github.com/
 
 ## Previews
 <p>
-Blue - 
+<h2>Blue -<h2> 
 
 <img src="previews/blue.png" alt="img" align="right">
 </p>
