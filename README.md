@@ -20,4 +20,4 @@ These Startpages are my configurations of [these startpages](https://github.com/
 
 Blue - 
 
-<img src="https://raw.githubusercontent.com/wiki/elenapan/dotfiles/assets/amarena.png" alt="img" align="right">
+<img src="previews/blue.png" alt="img" align="right" height="100px" width="100px">
