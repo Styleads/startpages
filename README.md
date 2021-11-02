@@ -17,3 +17,7 @@
 These Startpages are my configurations of [these startpages](https://github.com/HeavyRain266/Startpage) with different flavours/colors and more.
 
 ## Previews
+
+Blue - 
+
+<img src="https://raw.githubusercontent.com/wiki/elenapan/dotfiles/assets/amarena.png" alt="img" align="right">
