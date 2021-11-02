@@ -17,45 +17,31 @@
 These Startpages are my configurations of [these startpages](https://github.com/HeavyRain266/Startpage) with different flavours/colors and more.
 
 ## Previews
-<p>
-<h2>Blue -<h2> 
+
+<h2>Blue
 
 <img src="previews/blue.png" alt="img" align="right" height="450px" width="450px">
-</p>
 
-<p>
-Gray - 
-
+Gray
 <img src="previews/gray.png" alt="img" align="right">
-</p>
 
-<p>
 Green - 
 
 <img src="previews/green.png" alt="img" align="right">
-</p>
 
-<p>
 Orange - 
 
 <img src="previews/orange.png" alt="img" align="right">
-</p>
 
-<p>
-  
 Purple - 
 
 <img src="previews/purple.png" alt="img" align="right">
-</p>
 
-<p>
 Red - 
 
 <img src="previews/red.png" alt="img" align="right">
-</p>
 
-<p>
 Yellow - 
 
 <img src="previews/yellow.png" alt="img" align="right">
-</p>
+
