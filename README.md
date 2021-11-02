@@ -18,9 +18,13 @@ These Startpages are my configurations of [these startpages](https://github.com/
 
 ## Previews
 
-<h2>Blue
+<table>
+  
+<tr>
+  
+  <td>Blue</td>
 
-<img src="previews/blue.png" alt="img" align="right">
+  <td><img src="previews/blue.png" alt="img" align="right"></td>
 
 Gray
 <img src="previews/gray.png" alt="img" align="right">
@@ -44,4 +48,4 @@ Red
 Yellow
 
 <img src="previews/yellow.png" alt="img" align="right">
-
+</table>
