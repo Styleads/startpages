@@ -20,7 +20,7 @@ These Startpages are my configurations of [these startpages](https://github.com/
 <p>
 <h2>Blue -<h2> 
 
-<img src="previews/blue.png" alt="img" align="right">
+<img src="previews/blue.png" alt="img" align="right" height="450px" width="450px">
 </p>
 
 <p>
