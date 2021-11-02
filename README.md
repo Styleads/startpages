@@ -21,3 +21,27 @@ These Startpages are my configurations of [these startpages](https://github.com/
 Blue - 
 
 <img src="previews/blue.png" alt="img" align="right">
+
+Gray - 
+
+<img src="previews/gray.png" alt="img" align="right">
+
+Green - 
+
+<img src="previews/green.png" alt="img" align="right">
+
+Orange - 
+
+<img src="previews/orange.png" alt="img" align="right">
+
+Purple - 
+
+<img src="previews/purple.png" alt="img" align="right">
+
+Red - 
+
+<img src="previews/red.png" alt="img" align="right">
+
+Yellow - 
+
+<img src="previews/yellow.png" alt="img" align="right">
