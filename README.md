@@ -20,4 +20,4 @@ These Startpages are my configurations of [these startpages](https://github.com/
 
 Blue - 
 
-<img src="previews/blue.png" alt="img" align="right" height="250px" width="250px">
+<img src="previews/blue.png" alt="img" align="right">
